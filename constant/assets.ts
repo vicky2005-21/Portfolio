@@ -25,12 +25,12 @@ export const assets = {
       suitcase: require("@images/home/myLatestProject/suitcase.Webp"),
       projects: {
         portfolioWebsite: require("@images/home/myLatestProject/projects/portfolio-Website.Webp"),
-        hi: require("@images/home/myLatestProject/projects/hi.webp"),
-        homeScreen: require("@images/home/myLatestProject/projects/HomeScreen.webp"),
-        collage: require("@images/home/myLatestProject/projects/collage.webp"),
-        game: require("@images/home/myLatestProject/projects/game.webp"),
-        simba: require("@images/home/myLatestProject/projects/simba.webp"),
-        figma: require("@images/home/myLatestProject/projects/figma.webp"),
+        hi: require("@images/home/myLatestProject/projects/hi.Webp"),
+        homeScreen: require("@images/home/myLatestProject/projects/HomeScreen.Webp"),
+        collage: require("@images/home/myLatestProject/projects/collage.Webp"),
+        game: require("@images/home/myLatestProject/projects/game.Webp"),
+        simba: require("@images/home/myLatestProject/projects/simba.Webp"),
+        figma: require("@images/home/myLatestProject/projects/figma.Webp"),
 
 
       },
